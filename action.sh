@@ -1,4 +1,4 @@
-git clone https://github.com/the-noobest-pro/Oops_Lyf /root/TGVC 
+git clone https://github.com/me-piro-786/VideoTestBot /root/TGVC 
 cp musicplayer/.env /root/TGVC 
 cd /root/TGVC 
 docker build . --rm --force-rm --compress --pull --file Dockerfile -t musicplayer
